@@ -1,11 +1,8 @@
 {
-  "name": "mjr-base58",
-  "version": "1.0.2",
-  "description": "极简单Base58模块",
+  "name": "mjrbase58",
+  "version": "2.0.2",
+  "description": "Fast base encoding / decoding of any given alphabet",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +12,16 @@
   },
   "keywords": [
     "base58",
-    "bs58"
+    "base62",
+    "base64",
+    "crypto",
+    "crytography",
+    "decode",
+    "decoding",
+    "encode",
+    "encoding"
   ],
-  "author": "mjr",
+  "author": "MJR",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mjronlines/m-bs58/issues"

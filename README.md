@@ -1,7 +1,7 @@
 # 极简单Base58
 #### 安装
 ```
-npm i m-bs58
+npm i mjrbase58
 ```
 ### 编码
 ```
