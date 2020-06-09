@@ -1,0 +1,26 @@
+{
+  "name": "m-bs58",
+  "version": "1.0.0",
+  "description": "极简单Base58模块",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjronlines/m-bs58.git"
+  },
+  "keywords": [
+    "base58",
+    "bs58"
+  ],
+  "author": "mjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjronlines/m-bs58/issues"
+  },
+  "homepage": "https://github.com/mjronlines/m-bs58#readme"
+}
