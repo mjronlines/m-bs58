@@ -1,6 +1,6 @@
 {
   "name": "mjr-base58",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "极简单Base58模块",
   "main": "index.js",
   "directories": {
